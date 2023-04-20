@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @agitencu
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in full stack development
 - 📫 You can reach me here agtencu@gmail.com
 
 <!---
