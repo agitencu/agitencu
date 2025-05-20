@@ -1,35 +1,33 @@
 # 👨‍💻 Agit ENCU | Information Systems Engineer & Technology Enthusiast
 
-Merhaba, ben **Agit ENCU** — yazılım geliştirme, kullanıcı odaklı tasarım ve modern web teknolojileri alanlarında uzmanlaşmaya çalışan bir geliştiriciyim. Kod yazarken sadece bir çözüm üretmeyi değil, aynı zamanda sürdürülebilir, ölçeklenebilir ve etkili çözümler geliştirmeyi hedefliyorum.
+Hello, I'm **Agit ENCU** — a developer who specializes in software development, user-centered design and modern web technologies. When I write code, I aim not only to produce a solution, but also to develop sustainable, scalable and effective solutions.
 
-## 🔍 Hakkımda
+## 🔍 About me
 
-- 🎓 Bilişim Sistemleri Mühendisi.
-- ⚙️ Uçtan uca web uygulamaları geliştiriyorum: veritabanı tasarımından arayüz deneyimine kadar tüm süreci yönetiyorum.
-- 🧠 Yeni teknolojilere meraklıyım, sürekli öğrenmeyi ve paylaşmayı severim.
-- 🎯 Geliştirdiğim projelerde performans, güvenlik ve temiz kod prensiplerini önceliklendiririm.
+- 🎓 Information Systems Engineer.
+- ⚙️ I develop end-to-end web applications: from database design to interface experience, I manage the entire process.
+- 🧠 I'm curious about new technologies, I like to constantly learn and share.
+- 🎯 I prioritize performance, security and clean code principles in the projects I develop.
 
-## 🧰 Kullandığım Teknolojiler
+## 🧰 Technologies I Use
 
-| Kategori       | Teknolojiler |
-|----------------|--------------|
-| **Frontend**   | HTML, CSS, JavaScript, React, Bootstrap |
-| **Backend**    | Node.js, Express.js, PHP, C# |
-| **Veritabanı** | MySQL, MSSQL |
-| **Araçlar**    | Git & GitHub, VS Code, Postman, Figma, Canva |
+| Category | Technologies |
+|--|---------------------------|
+| **Frontend** | HTML, CSS, JavaScript, React, Bootstrap |
+| **Backend** | Node.js, Express.js, PHP, C# |
+| **Database** | MySQL, MSSQL |
+| **Tools** | Git & GitHub, VS Code, Postman, Figma, Canva |
 
-
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Statistics
 
 ![Agit's GitHub stats](https://github-readme-stats.vercel.app/api?username=agitencu&show_icons=true&theme=github_dark&hide=issues)
 
-## 📫 İletişim ve Ağ
+## 📫 Communication & Networking
 
 - 🌐 [Linktree](https://linktr.ee/agitencu)
-- 📧 agtencu@gmail.com  
-- 💼 Yeni iş birliklerine ve projelere açığım.
+- 📧 agtencu@gmail.com
+- 💼 I am open to new collaborations and projects.
 
 ---
 
-> "Yazılım yalnızca bir meslek değil, dünyayı dönüştüren bir araçtır. Bu vizyonla çalışıyorum."
-
+> "Software is not just a profession, it is a tool that transforms the world. I work with this vision."
