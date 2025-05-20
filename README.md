@@ -1,4 +1,4 @@
-# 👨‍💻 Agit ENCU | Full-Stack Developer & Technology Enthusiast
+# 👨‍💻 Agit ENCU | Information Systems Engineer & Technology Enthusiast
 
 Merhaba, ben **Agit ENCU** — yazılım geliştirme, kullanıcı odaklı tasarım ve modern web teknolojileri alanlarında uzmanlaşmaya çalışan bir geliştiriciyim. Kod yazarken sadece bir çözüm üretmeyi değil, aynı zamanda sürdürülebilir, ölçeklenebilir ve etkili çözümler geliştirmeyi hedefliyorum.
 
