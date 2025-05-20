@@ -1,8 +1,35 @@
-- 👋 Hi, I’m @agitencu
-- 👀 I’m interested in full stack development
-- 📫 You can reach me here agtencu@gmail.com
+# 👨‍💻 Agit ENCU | Full-Stack Developer & Technology Enthusiast
 
-<!---
-agitencu/agitencu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Merhaba, ben **Agit ENCU** — yazılım geliştirme, kullanıcı odaklı tasarım ve modern web teknolojileri alanlarında uzmanlaşmaya çalışan bir geliştiriciyim. Kod yazarken sadece bir çözüm üretmeyi değil, aynı zamanda sürdürülebilir, ölçeklenebilir ve etkili çözümler geliştirmeyi hedefliyorum.
+
+## 🔍 Hakkımda
+
+- 🎓 Bilişim Sistemleri Mühendisi.
+- ⚙️ Uçtan uca web uygulamaları geliştiriyorum: veritabanı tasarımından arayüz deneyimine kadar tüm süreci yönetiyorum.
+- 🧠 Yeni teknolojilere meraklıyım, sürekli öğrenmeyi ve paylaşmayı severim.
+- 🎯 Geliştirdiğim projelerde performans, güvenlik ve temiz kod prensiplerini önceliklendiririm.
+
+## 🧰 Kullandığım Teknolojiler
+
+| Kategori       | Teknolojiler |
+|----------------|--------------|
+| **Frontend**   | HTML, CSS, JavaScript, React, Bootstrap |
+| **Backend**    | Node.js, Express.js, PHP, C# |
+| **Veritabanı** | MySQL, MSSQL |
+| **Araçlar**    | Git & GitHub, VS Code, Postman, Figma, Canva |
+
+
+## 📊 GitHub İstatistikleri
+
+![Agit's GitHub stats](https://github-readme-stats.vercel.app/api?username=agitencu&show_icons=true&theme=github_dark&hide=issues)
+
+## 📫 İletişim ve Ağ
+
+- 🌐 [Linktree](https://linktr.ee/agitencu)
+- 📧 agtencu@gmail.com  
+- 💼 Yeni iş birliklerine ve projelere açığım.
+
+---
+
+> "Yazılım yalnızca bir meslek değil, dünyayı dönüştüren bir araçtır. Bu vizyonla çalışıyorum."
+
