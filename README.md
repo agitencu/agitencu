@@ -18,9 +18,6 @@ Hello, I'm **Agit ENCU** — a developer who specializes in software development
 | **Database** | MySQL, MSSQL |
 | **Tools** | Git & GitHub, VS Code, Postman, Figma, Canva |
 
-## 📊 GitHub Statistics
-
-![Agit's GitHub stats](https://github-readme-stats.vercel.app/api?username=agitencu&show_icons=true&theme=github_dark&hide=issues)
 
 ## 📫 Communication & Networking
 
