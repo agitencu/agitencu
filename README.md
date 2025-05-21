@@ -1,4 +1,4 @@
-# 👨‍💻 Agit ENCU | Information Systems Engineer & Technology Enthusiast
+# 👨‍💻 Agit ENCU | Information Systems Engineer
 
 Hello, I'm **Agit ENCU** — a developer who specializes in software development, user-centered design and modern web technologies. When I write code, I aim not only to produce a solution, but also to develop sustainable, scalable and effective solutions.
 
